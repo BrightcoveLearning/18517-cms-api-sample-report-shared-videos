@@ -37,3 +37,7 @@ fieldset {
 .rd-container-attachment {
   color: #333;
 }
+code {
+  color: #E4B842;
+  font-family: 'Source Code Pro',monospace;
+}
